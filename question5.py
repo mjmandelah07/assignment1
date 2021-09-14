@@ -10,7 +10,8 @@ else:
     print(False)
 
 # printing a False output
-list2 = [10, 20, 30, 40, 50]
+lst = []
+list2 = int(input("Enter a number of elements: "))
 
 print("Given list is ", list2)
 first_num = list2[0]
